@@ -1,4 +1,4 @@
-# redux-anotacoes
+# redux-anotaçoes
 
 ## Para usar o redux na minha aplicação preciso configurar o:
 - reducer / slice
